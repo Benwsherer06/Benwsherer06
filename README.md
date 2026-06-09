@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Ben
 
-<!--
-**Benwsherer06/Benwsherer06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently studying Software Programming at Lake Land College. I am interested in technology, programming, and learning how software, websites, and computer systems work.
 
-Here are some ideas to get you started:
+Career Goals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to continue building my technical skills and eventually work in an IT-related field, preferably in programming or software development. I am also interested in entry-level IT opportunities that can help me gain experience and get my foot in the door.
+
+Tools and Technologies I'm Learning
+Python
+JavaScript
+HTML and CSS
+Git and GitHub
+Basic computer troubleshooting
+IT fundamentals
+CompTIA A+ material
+About Me
+
+I am still learning and improving, but I am motivated to build my skills and become more prepared for a future career in technology.
