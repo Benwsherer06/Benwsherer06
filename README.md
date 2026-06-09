@@ -8,11 +8,11 @@ My goal is to continue building my technical skills and eventually work in an IT
 
 Tools and Technologies I'm Learning:
 
-Python
-JavaScript
-Git and GitHub
-Basic computer troubleshooting
-IT fundamentals
+Python,
+JavaScript,
+Git and GitHub,
+Basic computer troubleshooting,
+IT fundamentals, and
 CompTIA A+ material
 
 About Me:
